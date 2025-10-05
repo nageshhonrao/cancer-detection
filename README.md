@@ -11,11 +11,13 @@ This project is part of an internship at **SmartInternz**.
 - **Predicting Disease Severity and Survival:** Hospitals can analyze patient data with AI to predict disease severity and survival outcomes, supporting targeted treatments.  
 - **Monitoring Disease Progression:** The system tracks key biomarkers over time, alerting physicians to worsening patterns for proactive care.  
 
-## Project Structure
-Flask/ # - Flask web app for CKD prediction
-Training/ # - Jupyter notebook for data analysis and model training
-dataset/ # - CKD dataset
-test_ckd.py # - Automated test script for the Flask app
+## Repository Structure
+
+- **Flask/** – Flask web app for CKD prediction  
+- **Training/** – Jupyter notebook for data analysis and model training  
+- **dataset/** – CKD dataset  
+- **test_ckd.py** – Automated test script for the Flask app
+
 
 ## Setup Instructions
 1. **Clone the repository** and navigate to the project directory.  
