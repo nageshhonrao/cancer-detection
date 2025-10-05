@@ -12,10 +12,10 @@ This project is part of an internship at **SmartInternz**.
 - **Monitoring Disease Progression:** The system tracks key biomarkers over time, alerting physicians to worsening patterns for proactive care.  
 
 ## Project Structure
-Flask/ # Flask web app for CKD prediction
-Training/ # Jupyter notebook for data analysis and model training
-dataset/ # CKD dataset
-test_ckd.py # Automated test script for the Flask app
+Flask/ # - Flask web app for CKD prediction
+Training/ # - Jupyter notebook for data analysis and model training
+dataset/ # - CKD dataset
+test_ckd.py # - Automated test script for the Flask app
 
 ## Setup Instructions
 1. **Clone the repository** and navigate to the project directory.  
